@@ -5,3 +5,7 @@ Some stuff in here.
 Version 2
 
 Now with a cool new feature!
+
+Version 2.1
+
+Needed to make a small change to the cool new feature before I can put it live. (and want to make sure I keep versioning history when merging branches here)
