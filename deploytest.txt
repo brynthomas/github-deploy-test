@@ -1,3 +1,7 @@
 Version 1
 
 Some stuff in here.
+
+Version 2
+
+Now with a cool new feature!
