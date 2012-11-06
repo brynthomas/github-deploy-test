@@ -4,6 +4,8 @@ Some stuff in here.
 
 This was a change made in the meantime that might conflict.
 
+This is stuff that goes here
+
 Version 2
 
 Now with a cool new feature!
