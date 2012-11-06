@@ -16,3 +16,7 @@ Needed to make a small change to the cool new feature before I can put it live. 
 
 
 Ok lets change a little bit more
+
+This is a change needed to be made to my new feature.
+
+And a tiny bug fix
