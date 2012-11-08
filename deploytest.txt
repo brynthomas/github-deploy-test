@@ -9,6 +9,7 @@ This is stuff that goes here
 Version 2
 
 Now with a cool new feature!
+EMERGENCY HOTFIX
 
 Version 2.1
 
